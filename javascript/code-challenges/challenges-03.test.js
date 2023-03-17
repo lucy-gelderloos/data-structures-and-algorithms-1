@@ -44,6 +44,7 @@ let newArr = arr.filter (contains => contains.includes('and'));
 return newArr;
 };
 
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 4
 
@@ -69,8 +70,10 @@ For example, notInFirstArray([1,2,3], [1,2,3,4]) returns [4].
 const notInFirstArray = (forbiddenValues, arr) => {
   // Solution code here...
 
-  let secondArr = arr.filter(notDeez => !forbiddenValues.includes(notDeez))
-  return secondArr;
+  let newArr = arr.filter(notDeez => !forbiddenValues.includes(notDeez))
+  return newArr;
+
+  // return arr.filter(notDeez => !forbiddenValues.includes(notDeez));
 };
 
 /* ------------------------------------------------------------------------------------------------
