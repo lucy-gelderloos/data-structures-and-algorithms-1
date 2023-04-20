@@ -2,9 +2,6 @@
 
 ## Language: `Java`
 
-### Folder/Project Setup
-
-Each type of code challenge has slightly different instructions. Please refer to the notes and examples below for instructions for each DS&A assignment type.
 
 ### Data Structure: New Implementation
 
@@ -68,10 +65,7 @@ You will be working in the `codechallenges` subfolder for all of your algorithm 
 
 #### Whiteboards and READMEs
 
-- Create a master "README" at the top level of your `codechallenges` folder.
-  - Within, create links to a separate README for each daily challenge.
-- For each challenge, create a new README.md along with your whiteboard photo/image.
-  - This should describe your approach, methodologies, etc.
+- [Link to my README code challenge](./datastructures/code-challenges/README.md)
 
 #### Live Tests
 
