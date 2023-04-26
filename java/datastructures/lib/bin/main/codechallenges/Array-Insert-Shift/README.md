@@ -2,7 +2,7 @@
 
 ## Whiteboard
 
-![Whiteboard](./Whiteboard2.png)
+![Whiteboard](Whiteboard2.png)
 
 ``` java
 

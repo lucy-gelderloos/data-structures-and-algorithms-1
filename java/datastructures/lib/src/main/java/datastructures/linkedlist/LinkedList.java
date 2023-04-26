@@ -32,4 +32,8 @@ public class LinkedList
       //  1 -> 2 -> 3 -> 4 -> null
         return "null";
     }
+
+    // Code Challenge 7
+
+
 }
