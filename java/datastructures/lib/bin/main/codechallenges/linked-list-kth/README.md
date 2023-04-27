@@ -10,3 +10,4 @@
   - [ ] Edge Case (if applicable/obvious)
 
 - I only had time to do the whiteboard with some of the code written out.
+![Code Challenge 7.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FDesktop%2FCode%20Challenge%207.png)
